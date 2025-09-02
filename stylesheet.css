@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: blue;
+    background-color: honeydew;
     font-family: 'Nunito', Arial, Helvetica, sans-serif;
     margin: 0;
   }
@@ -9,12 +9,12 @@ body {
   
   h1 {
     font-family: 'Nunito', Arial, Helvetica, sans-serif;
-    color: #2e2022;
+    color: #A9A9A9;
   font-size: 300%;
   text-align:center
   }
   h2 {
-    color: rgb(225, 65, 65);
+    color: #A9A9A9;
     font-family: verdana;
   font-size: 200%;
   text-align:center
